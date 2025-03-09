@@ -1,5 +1,5 @@
 # -WEBSCRAPPING_-Automated-Data-Extraction-CSV-Downloader-Using-Python-
-# 📊 WebScraping: Extract & Download Data as CSV 🚀
+
 
 ## 🔥 Overview  
 WebScrapePro is a powerful Python-based web scraping tool designed to extract data from websites and save it in CSV format. Using **BeautifulSoup, Scrapy, and Selenium**, this tool automates data collection, making it easier to analyze structured information.  
